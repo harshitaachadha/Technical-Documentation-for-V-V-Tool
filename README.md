@@ -1,2 +1,4 @@
 # Technical-Documentation-for-V-V-Tool
-Semester long project for graduate level Software Engineering Course to Gather Client Requirements and design comprehensive technical documentation for V&amp;V tool
+For the success of any project, verification and validation of the requirements is a crucial part. Detecting any missing information, conflicting or ambiguous requirements at the initial stages of the project will help save rework in the later stages and use of any additional funds that will be required to correct the workflow. The Verification and Validation tool will serve as a one-stop solution for keeping track of all requirements for all projects undertaken by the organization.
+
+The V&V tool will take in Software Requirements Documents, Software Design Documents and System Test Plan of any given project and add it to the central database. The access to different views of the V&V tool will be decided by access roles assigned to users of the system. This shall ensure that the database of each project will only be accessible by the personnels who will be working on it to increase security.
